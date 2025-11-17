@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 -->
 
 
+<!-- Banner -->
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%" />
+
+
 
 # 👋 Hi, I'm @uche09 — Omesu Uchechukwu Emmanuel
 
