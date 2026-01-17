@@ -78,10 +78,10 @@ Backend-focused Software Engineering graduate passionate about building reliable
 ## 📊 GitHub Stats  
 ![Profile Views](https://komarev.com/ghpvc/?username=uche09&label=Profile%20Views&color=blue&style=for-the-badge)
 
-<div>
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=uche09&show_icons=true&count_private=true&theme=default" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uche09&layout=compact&theme=default" height="180" />
-</div>
+</div> -->
 
 ---
 
